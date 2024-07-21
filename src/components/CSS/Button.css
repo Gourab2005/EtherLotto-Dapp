@@ -1,0 +1,18 @@
+.button{
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: rgb(0, 0, 0);
+    border-radius: 8px;
+    font-size: 1.5rem;
+    color:white;
+    border-bottom: 0.2rem solid rgba(255, 255, 255, 0.408);
+    border-right: 0.2rem solid rgba(255, 255, 255, 0.341);
+    border-top: 0.1rem solid rgba(255, 255, 255, 0.438);
+    border-left: 0.05rem solid rgba(255, 255, 255, 0.31);
+    margin: 4px;
+    width: 10rem;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: rgb(255, 255, 255);
+}
